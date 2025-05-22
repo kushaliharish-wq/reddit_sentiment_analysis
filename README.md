@@ -110,4 +110,4 @@ There’s a **loose correlation** between positive sentiment and higher trading 
 ---
 
 ## 🔗 Links
-[Live Dashboard on Tableau Public]([https://public.tableau.com/app/profile/your-dashboard-link](https://public.tableau.com/views/price_sentiment/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[Live Dashboard on Tableau Public](https://public.tableau.com/views/price_sentiment/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
