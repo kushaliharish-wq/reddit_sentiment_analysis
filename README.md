@@ -83,14 +83,18 @@ There’s a **loose correlation** between positive sentiment and higher trading 
 | `CoinGecko API`    | BTC price and volume data                    |
 
 ---
-
 ## 📁 Project Structure
 
-├── reddit_sentiment_etl.ipynb # Jupyter notebook for ETL
-├── btc_sentiment_price.csv # Bitcoin sentiment + price data
-├── crypto_popularity.csv # Coin mention counts from Reddit
-├── volume_data.csv # BTC volume over 60 days
-└── README.md
+| File Name                 | Description                                  |
+|--------------------------|----------------------------------------------|
+| `reddit_sentiment_analysis.ipynb` | Jupyter notebook for ETL pipeline      |
+| `btc_price_data.csv`    | Bitcoin sentiment and price data            |
+| `btc_sentiment_price.csv`    | Bitcoin sentiment and price data            |
+| `btc_sentiment_volume.csv`    | Bitcoin sentiment and 24hr volume data     |
+| `crypto_popularity.csv`      | Coin mention counts from Reddit             |
+| `volume_data.csv`            | BTC trading volume over the past 60 days    |
+| `README.md`                  | Project documentation and insights          |
+
 
 ---
 
